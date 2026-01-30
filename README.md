@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Soubhagya Nayak</h1>
-<h3 align="center">I'm a student at **IIT Madras** with a strong focus on **Artificial Intelligence and Machine Learning**. I enjoy working on real-world data problems, building ML models, and developing end-to-end applications that combine data, algorithms, and systems.</h3>
+<h3 align="center">I'm a student at <b>IIT Madras</b> with a strong focus on <b>Artificial Intelligence and Machine Learning</b>. I enjoy working on real-world data problems, building ML models, and developing end-to-end applications that combine data, algorithms, and systems.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=happytth&label=Profile%20views&color=0e75b6&style=flat" alt="happytth" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happytth" alt="happytth" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I’m currently learning **Pytorch**
 
