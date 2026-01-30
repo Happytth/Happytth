@@ -5,6 +5,13 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=happytth" alt="happytth" /></a> </p>
 
+<p align="left">
+  <a href="https://instagram.com/happu.04" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-@happu.04-E4405F?logo=instagram&logoColor=white&style=for-the-badge" alt="Instagram"/>
+  </a>
+</p>
+
+
 - 🌱 I’m currently learning **Pytorch**
 
 - 💬 Ask me about **AI , ML**
