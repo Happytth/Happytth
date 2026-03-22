@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **23f2005014@ds.study.iitm.ac.in**
 
-- 📄 Know about my experiences [[https://drive.google.com/file/d/1ZH9VC267lAVAzlOPkZjI8dYMVv0LW9py/view?usp=sharing](https://drive.google.com/file/d/1QxwSHOMrFPVfyePTiHtOOdyYKREbYcHr/view?usp=sharing)](https://drive.google.com/file/d/1ZH9VC267lAVAzlOPkZjI8dYMVv0LW9py/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ZH9VC267lAVAzlOPkZjI8dYMVv0LW9py/view?usp=sharing](https://drive.google.com/file/d/1ZH9VC267lAVAzlOPkZjI8dYMVv0LW9py/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
